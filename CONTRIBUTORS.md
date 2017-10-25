@@ -1,3 +1,8 @@
+#### Name: [Emily Wivell](https://github.com/emjwivell)
+ - Place: South Carolina, USA
+ - Bio: Developer
+ - GitHub: [emjwivell](https://github.com/emjwivell)
+
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
